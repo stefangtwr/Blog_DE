@@ -1,10 +1,8 @@
 # Neue Beiträge
 
->[Einen Fisch mit einer Werkzeugfräsmaschine fangen](URL) - 06.06.2025  
-> Einen Fisch mit einer Werkzeugfräsmaschine fangen
+>06.06.2025 - [Einen Fisch mit einer Werkzeugfräsmaschine fangen](URL) -  
 
->[Kartoffeln mit einer Atombombe sortieren](URL) - 06.06.2025  
-> Kartoffeln mit einer Atombombe sortieren
+>06.06.2025 - [Kartoffeln mit einer Atombombe sortieren](URL)  
 
 # Allgemeines
 
